@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "preserveConstEnums": true,
+    "strictNullChecks": true,
+    "target": "es6",
+    "allowJs": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  }
+}
